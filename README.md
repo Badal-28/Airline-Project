@@ -7,7 +7,7 @@
 2. [Dataset Description](#dataset-description)
 3. [Project Workflow](#project-workflow)
 5. [Addressing The Issue](#addressing-the-issue)
-6. [Possible Solutions & Strategy](#possible-solutions-&-strategy)
+6. [Possible Solutions and Strategy](#possible-solutions-and-strategy)
 
 ## Project Objective
 The primary goal of this project is to identify optimal solutions to the challenges faced by travelers and develop strategies to enhance the services provided by various airlines. By conducting sentiment analysis on traveler feedback, we aim to extract valuable insights from the dataset to understand customer sentiments and experiences.
@@ -61,7 +61,7 @@ Improvement in main areas(factors) of concern:
 3.Seat Comfort
 4.Food and  Bevrages
 
-## Possible Solutions & Strategy
+## Possible Solutions and Strategy
 
 ### Cabin Staff Services 
 1.Better training programs to ensure necessary skills required for delivering better services to travellers such as encouraging them to be approachable and attentive towards needs of passengers.
