@@ -22,3 +22,11 @@ Here first we will know about sentimental analysis
 
 ### What is Sentimental Analysis
 Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral. Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation. 
+
+### How does it work?
+Sentiment analysis is an application of natural language processing (NLP) technologies that train computer software to understand text in ways similar to humans. The analysis typically goes through several stages before providing the final result.
+
+#### Preprocessing
+During the preprocessing stage, sentiment analysis identifies key words to highlight the core message of the text.Tokenization breaks a sentence into several elements or tokens.Lemmatization converts words into their root form. For example, the root form of am is be.Stop-word removal filters out words that don't add meaningful value to the sentence. For example, with, for, at, and of are stop words. 
+
+
