@@ -5,9 +5,9 @@
 ## Table of Contents
 1. [Project Objective](#project-objective)
 2. [Dataset Description](#dataset-description)
-4. [Project Workflow](#project-workflow)
-5. [Power BI Dashboard](#power-bi-dashboard)
-6. [Predictions](#predictions)
+3. [Project Workflow](#project-workflow)
+5. [Addressing The Issue](#addressing-the-issue)
+6. [Possible Solutions & Strategy](#possible-solutions-&-strategy)
 
 ## Project Objective
 The primary goal of this project is to identify optimal solutions to the challenges faced by travelers and develop strategies to enhance the services provided by various airlines. By conducting sentiment analysis on traveler feedback, we aim to extract valuable insights from the dataset to understand customer sentiments and experiences.
@@ -51,7 +51,47 @@ In the above two sections, we saw that accuracy of roBERTa is much higher and re
 
 Depending on the task and computational resources available one can select VADER or roBERTa. However, with a minimalistic amount of data pre-processing and incredible accuracy, Twitter-roBERTa seems more promising, especially if the amount of data is not so big.
 
-## Note;Refer to the `Air line ppt` for the more clear information along with visuals representing the issue.
+### Note;Refer to the `AIRLINE PROJECT(1).pptx` for the more clear information along with visuals representing the issue.
+
+## Addressing The Issue
+We see that A320 is the busiest aircraft and Boeing 777 has least recommendation ratio in spite of being one of busiest aircraft. So, improving services of these aircrafts will give us more benefit.
+Improvement in main areas(factors) of concern:
+1.Cabin Staff Services
+2.Vlaue For Money
+3.Seat Comfort
+4.Food and  Bevrages
+
+## Possible Solutions & Strategy
+
+### Cabin Staff Services 
+1.Better training programs to ensure necessary skills required for delivering better services to travellers such as encouraging them to be approachable and attentive towards needs of passengers.
+2.Conducting surveys:
+     Conduct random surveys after the flight to know more about what are the specific concerns of passengers regarding the staff.
+3.Incentives:
+     Implement incentive programs or performance-based rewards to motivate staff and foster a culture of excellence. 
+
+### Value For Money
+1.Clear and transparent billing structure detailed breakdowns of fares and extra charges
+2.Enhancing the quality of services 
+3.Conduct surveys after flight mainly focusing on this factor
+4.Give seasonal discounts and implement loyalty program offers for the passengers to the passengers who travelled more than once.
+5.Monitor market trends and charge accordingly
+
+### Seat Comfort
+1.Improvement in seat material
+2.Adjustable features such as headrests, armrests and footrests to passengers for more comfortability.
+3.Maintenance of quality on a regular basis.
+4.Maintain cleanliness of seats and bacteria free environment in the  aircraft.
+5.Conduct surveys mainly focusing on feedback on hygiene .
+
+### Food and Bevrages
+1.Offering diverse meal options
+2.High quality ingredients
+3.Feedback from passengers regarding quality and quantity of food. 
+
+
+
+
 
 
 
