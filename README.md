@@ -17,3 +17,8 @@ Through this analysis, we will evaluate the sentiment data contained within the 
 ## Dataset Description
 Number of rows=1300+,Number of columns=19,The dataset includes detail about  aircraft , traveller_type , seat_type , route , date_flown , recommended 3 , trip_verified , rating , seat_comfort , cabin_staff_service , food_beverages , ground_service , value_for_money , entertainment
 
+## Project Workflow
+Here first we will know about sentimental analysis
+
+# What is Sentimental Analysis
+Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral. Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation. 
