@@ -33,8 +33,9 @@ During the preprocessing stage, sentiment analysis identifies key words to highl
 There are many challenges in Sentimental Analysis such as:
 1.Tone , 2.Sarcasm, 3.Idioms , 4.Polarity, 5.Emojis, 6.Negations etc
 
-### 2.Now we shall talk about keyword Analysis
+### 2.Now we will talk about keyword Analysis
 NLP technologies further analyze the extracted keywords and give them a sentiment score. A sentiment score is a measurement scale that indicates the emotional element in the sentiment analysis system. It provides a relative perception of the emotion expressed in text for analytical purposes. For example, researchers use 10 to represent satisfaction and 0 for disappointment when analyzing customer reviews.
+
 ### 3.Now we will talk about models that are used in Sentimental analysis
 
 #### VADER VS roBERTA
@@ -50,6 +51,7 @@ In the above two sections, we saw that accuracy of roBERTa is much higher and re
 
 Depending on the task and computational resources available one can select VADER or roBERTa. However, with a minimalistic amount of data pre-processing and incredible accuracy, Twitter-roBERTa seems more promising, especially if the amount of data is not so big.
 
+## Note;Refer to the `Air line ppt` for the more clear information along with visuals representing the issue.
 
 
 
